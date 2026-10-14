@@ -1,0 +1,10 @@
+# AIOSS ledger v1
+# project: ARTILLERY_MANUFACTURING/BALLISTIC_MISSILE_SIMULATION_PRIOR_DOCS
+# records: 6
+# head: 0efa99f4c434bffcc576ceab813ba5d7375c0fd39a965ba27d8f599a0b416ce8
+{"digest": "dd9ca63e052e0cbe4992f0afff1e58e306f6516d637c83a0fc51268b7d14b141", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "90b5138304446b04baf346e06414109a209f912d832879ce34c4190081cee76a", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:52:14Z"}
+{"digest": "a5fdf0ae28bc024b190d67fbddab11cb91aebd6005f4cf7e1b4d8f104a4df51f", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "65a3d884fdf37b26250a2b675eb1198173509ae0fe4849e359bfad40ce1629e7", "prev": "dd9ca63e052e0cbe4992f0afff1e58e306f6516d637c83a0fc51268b7d14b141", "seq": 1, "ts": "2026-10-09T05:52:14Z"}
+{"digest": "3ec1f2e3c30e0732f44058aad173ef85a4d778193c48109a42499dfa7e0b42fb", "kind": "sbom", "path": "sbom.cdx.json", "payload_sha3": "499f6864bf73d11851d15393081d3febd1f1643f8f2469088425890d0061d07e", "prev": "a5fdf0ae28bc024b190d67fbddab11cb91aebd6005f4cf7e1b4d8f104a4df51f", "seq": 2, "ts": "2026-10-09T05:52:14Z"}
+{"digest": "0f7fcb03c5718f9e3aba2367d3ebcd22d373c6290ed8a506559fe8a85bd39edd", "kind": "readme", "path": "README.md", "payload_sha3": "deb46889fc7a6ed86ba6fc9b01d360d201fc7558128bf91e7054c4cb98e72ce0", "prev": "3ec1f2e3c30e0732f44058aad173ef85a4d778193c48109a42499dfa7e0b42fb", "seq": 3, "ts": "2026-10-09T05:52:14Z"}
+{"digest": "fed60fdfa310f92e4abe2de6d56acd9244fa483f937c3c9e9b337467f17c33f9", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "fdb829ae02b45e32ba2abbcd66dfe0dfecccaba817f5233ab9eec427f5197a21", "prev": "0f7fcb03c5718f9e3aba2367d3ebcd22d373c6290ed8a506559fe8a85bd39edd", "seq": 4, "ts": "2026-10-09T05:52:14Z"}
+{"digest": "0efa99f4c434bffcc576ceab813ba5d7375c0fd39a965ba27d8f599a0b416ce8", "kind": "notice", "path": "NOTICE", "payload_sha3": "caebb8be00026f0926a29d77e18faa2738937f991d2df18031020bfa120f7677", "prev": "fed60fdfa310f92e4abe2de6d56acd9244fa483f937c3c9e9b337467f17c33f9", "seq": 5, "ts": "2026-10-09T05:52:14Z"}
